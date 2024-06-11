@@ -1,3 +1,3 @@
 # Temporary
 
-![Alt text here](images/Architecture Diagram.drawio.png)
+![Alt text here](Architecture Diagram.drawio.png)
